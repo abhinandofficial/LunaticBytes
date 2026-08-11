@@ -1,0 +1,1 @@
+"""Rainfall anomaly detection model."""
